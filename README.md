@@ -3,5 +3,5 @@ VR-SENRIGANのカメラ角度の制御及びクライアントへのストリー
 # How to use
 
 - network_settings.ymlを作成する
-- bundle sintall
+- bundle install
 - ruby senrigan-observer.rb
