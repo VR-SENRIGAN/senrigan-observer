@@ -1,0 +1,4 @@
+mqtt_host: your_host
+mqtt_port: your_port
+left_camera_url: your_url
+right_camera_url: your_url
